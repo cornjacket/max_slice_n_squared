@@ -6,13 +6,10 @@ Try it out at https://jsbin.com/zakopa/1/edit?js,console
 Write a max_slice function that takes an array of integers as input and returns the slice with the largest sum of elements.
 
 # some examples:
-# [1,2,3] => [1,2,3]
-# [1,-2,3] => [3]
-# [1,-2,3, 4] => [3, 4]
-# [-1,-2,-3] => [-1]
-
-
-FIX BELOW .......................
+[1,2,3] => [1,2,3]
+[1,-2,3] => [3]
+[1,-2,3, 4] => [3, 4]
+[-1,-2,-3] => [-1]
 
 Walk-thru
 
